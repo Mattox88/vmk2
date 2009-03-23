@@ -1,0 +1,28 @@
+// DM Environment file for VIA.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: 
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include <shadowdarke\sd_text\sd_Text.dme>
+#include "Click To Walk.dm"
+#include "Dictionary.dm"
+#include "esplande.dm"
+#include "Login code.dm"
+#include "maill.dm"
+#include "test.dm"
+#include "skin.dmf"
+#include "map.dmm"
+// END_INCLUDE
+
