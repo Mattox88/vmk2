@@ -4,14 +4,23 @@
 
 // BEGIN_INTERNALS
 /*
-FILE: 
+FILE: Im a little teapot.dmi
+DIR: characters
+MAP_ICON_TYPE: 0
+AUTO_FILE_DIR: ON
 */
 // END_INTERNALS
 // BEGIN_FILE_DIR
 #define FILE_DIR .
+#define FILE_DIR ".svn"
+#define FILE_DIR ".svn/prop-base"
+#define FILE_DIR ".svn/text-base"
+#define FILE_DIR "characters"
+#define FILE_DIR "Toolbar images"
 // END_FILE_DIR
 
 // BEGIN_PREFERENCES
+#define DEBUG
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
